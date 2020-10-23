@@ -175,3 +175,14 @@ myDeck.numCardsLeft()
 // 50
 
 // Implement a Deck constructor that will allow for the above code to work.
+
+// const mainDeck = new Deck();
+// const playerHand = new Hand();
+// const dealerHand = new Hand();
+// playerHand.addCard(mainDeck.draw());
+// dealerHand.addCard(mainDeck.draw());
+// playerHand.addCard(mainDeck.draw());
+// dealerHand.addCard(mainDeck.draw());
+// console.log(`Player has ${playerHand.getPoints()}`);
+// console.log(`Dealer has ${dealerHand.getPoints()}`);
+// console.log(`There are ${mainDeck.numCardsLeft()} cards left`)
